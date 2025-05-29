@@ -1,3 +1,5 @@
+     "start": "react-scripts start",
+
   Zoo7 project.
 #2c5e1a
 - Src ---
